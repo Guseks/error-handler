@@ -1,0 +1,4 @@
+export const UNAUTHORIZED_USER = 301;
+export const LOGIN_CREDENTIALS_NOT_PROVIDED = 302;
+export const DATABASE_ERROR = 303;
+export const WRONG_LOGIN_CREDENTIALS = 304;
